@@ -8,6 +8,7 @@ Group:		X11/Applications
 Source0:	http://downloads.sourceforge.net/lxde/%{name}-%{version}.tar.gz
 # Source0-md5:	cee3181dd22088f3db0e99ffbedc986d
 URL:		http://www.lxde.org/
+BuildRequires:	gettext-devel
 BuildRequires:	intltool >= 0.40.0
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
