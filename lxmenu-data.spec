@@ -1,12 +1,12 @@
 Summary:	Files required to build menu for LXDE
 Summary(pl.UTF-8):	Pliki menu dla LXDE
 Name:		lxmenu-data
-Version:	0.1.1
+Version:	0.1.2
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://downloads.sourceforge.net/lxde/%{name}-%{version}.tar.gz
-# Source0-md5:	cee3181dd22088f3db0e99ffbedc986d
+# Source0-md5:	2184ab3746d572477f1bea7e98e230a8
 URL:		http://www.lxde.org/
 BuildRequires:	gettext-devel
 BuildRequires:	intltool >= 0.40.0
