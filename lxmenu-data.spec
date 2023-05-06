@@ -5,7 +5,7 @@ Version:	0.1.5
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
-Source0:	http://downloads.sourceforge.net/lxde/%{name}-%{version}.tar.xz
+Source0:	https://downloads.sourceforge.net/lxde/%{name}-%{version}.tar.xz
 # Source0-md5:	cc1989444284a65dbc7047348a68d6d4
 URL:		http://www.lxde.org/
 BuildRequires:	gettext-tools
